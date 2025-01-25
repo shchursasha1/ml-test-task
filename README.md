@@ -1,1 +1,1 @@
-Test-task for Probabilistic Forecasting of Conflict-Related Fatalities start-up. Demonstrates my capabilities in ML model optimisation, feature engineering, understanding of metrics, and hands-on experience with plot visualisation, NumPy, Pandas etc.
+Test-task for Probabilistic Forecasting of Conflict-Related Fatalities start-up. Demonstrates my capabilities in ML model optimisation, feature engineering, understanding of metrics, and hands-on experience with plot visualisation and Exploratory Data Analysis using Pandas, Matplotlib, Seaborn etc.
